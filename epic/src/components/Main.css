@@ -1,5 +1,5 @@
 .main{
-  max-height: 50vh;
+  max-height: 90vh;
 }
 .mainContent {
   display: flex;
@@ -59,7 +59,9 @@ margin-right: 20px;
   border-radius: 50px;
   overflow: hidden;
   object-fit: contain;
+  
 }
+
 .ownerImageContainer> img{
   height: 100%;
   width: 100%;
