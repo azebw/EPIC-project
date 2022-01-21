@@ -43,7 +43,7 @@
   "start": "react-scripts start",
  
    
-  "build": "react-scripts build",
+  "build": "npm run build",
  
    
   "test": "react-scripts test",
